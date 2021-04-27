@@ -1,1 +1,1 @@
-console.log("Temporary account);
+console.log("Temporary account");
